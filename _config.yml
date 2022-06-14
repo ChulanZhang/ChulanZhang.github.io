@@ -83,9 +83,10 @@ author:
   name             : "Pengcheng Wang"
   avatar           : "profile.png"
   bio              : "4th year Ph.D. student at Purdue University"
-  location         : "West Lafayette"
+  bio              : "Graduate Research Assistant at Dependable Computing Systems Laboratory & Innovatory for Cells and Neural Machines."
+  location         : "West Lafayette, Indiana"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tGD20rgAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
