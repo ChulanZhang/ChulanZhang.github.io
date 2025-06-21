@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pengcheng Wang / One Piece"
+title                    : "Pengcheng Wang"
 title_separator          : "-"
 name                     : &name "Pengcheng Wang"
-description              : &description "4th year Ph.D. student at Purdue University"
+description              : &description "Ph.D. Candidate at Purdue University"
 url                      : https://ChulanZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChulanZhang/ChulanZhang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pengcheng Wang"
   avatar           : "profile.png"
-  bio              : "4th year Ph.D. student at Purdue University. Graduate Research Assistant at Dependable Computing Systems Laboratory & Innovatory for Cells and Neural Machines."
+  bio              : "Ph.D. Candidate at Purdue University. Graduate Research and Teaching Assistant at Innovatory for Cells and Neural Machines."
   location         : "West Lafayette, Indiana"
   employer         :
   pubmed           : 
