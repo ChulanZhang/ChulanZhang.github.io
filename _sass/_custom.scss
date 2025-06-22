@@ -1,0 +1,51 @@
+// Custom styles for BibTeX citations
+.bibtex-citation {
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 4px;
+  padding: 15px;
+  margin: 10px 0;
+  font-family: 'Courier New', monospace;
+  font-size: 0.9em;
+  line-height: 1.4;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.archive__item-citation {
+  margin-top: 10px;
+}
+
+.archive__item-citation summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #495057;
+  padding: 5px 0;
+}
+
+.archive__item-citation summary:hover {
+  color: #007bff;
+}
+
+.archive__item-links {
+  margin: 10px 0;
+}
+
+.archive__item-links .btn {
+  margin-right: 8px;
+  margin-bottom: 5px;
+}
+
+.archive__item-venue {
+  color: #6c757d;
+  font-size: 0.9em;
+  margin: 5px 0;
+}
+
+.archive__item-authors {
+  color: #495057;
+  font-size: 0.9em;
+  margin: 5px 0;
+  font-style: italic;
+} 
