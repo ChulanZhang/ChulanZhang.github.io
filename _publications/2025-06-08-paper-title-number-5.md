@@ -6,19 +6,9 @@ permalink: /publication/agile3d
 excerpt: 'A novel approach for efficient 3D object detection on embedded GPUs with adaptive contention and content awareness.'
 date: 2025-06-08
 venue: 'The 23rd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2025)'
-authors: '<strong>Pengcheng Wang<sup>α</sup>, Zhuoming Liu<sup>β</sup>, Shayok Bagchi<sup>γ</sup>, Ran Xu<sup>δ</sup>, Saurabh Bagchi<sup>α</sup>, Yin Li<sup>β</sup>, Somali Chaterji<sup>α</sup></strong><br><sub style="font-size:0.9em;">α Purdue University, β University of Wisconsin-Madison, γ West Lafayette Jr/Sr. High School, δ NVIDIA</sub>'
-slidesurl: 'https://your-slides-url.com'
-paperurl: 'https://your-paper-url.com'
-bibtexurl: 'https://your-bibtex-url.com'
-citation: '@inproceedings{wang2025agile3d,
-    title={Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs},
-    author={Wang, Pengcheng and Liu, Zhuoming and Bagchi, Shayok and Xu, Ran and Bagchi, Saurabh and Li, Yin and Chaterji, Somali},
-    booktitle={The 23rd ACM International Conference on Mobile Systems, Applications, and Services},
-    pages={TBD},
-    year={2025},
-    organization={ACM}
-}'
+authors: 'Pengcheng Wang, Zhuoming Liu, Shayok Bagchi, Ran Xu, Saurabh Bagchi, Yin Li, Somali Chaterji'
 ---
+<div style="margin-top: -1em;"><sub style="font-size:0.9em;">α Purdue University, β University of Wisconsin-Madison, γ West Lafayette Jr/Sr. High School, δ NVIDIA</sub></div>
 
 <div style="display: flex; gap: 4px; margin: 20px 0; align-items: center; flex-wrap: wrap;">
   <a href="https://github.com/ChulanZhang/ChulanZhang.github.io/blob/pengcheng/paper/agile3d_preprint.pdf" style="display: flex; align-items: center; gap: 6px; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
