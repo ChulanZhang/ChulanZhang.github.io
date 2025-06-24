@@ -25,7 +25,7 @@ citation: '@inproceedings{wang2025agile3d,
     📄 Paper
   </a>
   
-  <a href="https://github.com/ChulanZhang/ChulanZhang.github.io/blob/pengcheng/poster/agile3d_preprint.pdf" style="display: flex; align-items: center; gap: 8px; padding: 12px 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+  <a href="https://github.com/ChulanZhang/ChulanZhang.github.io/blob/pengcheng/poster/agile3d_poster.pdf" style="display: flex; align-items: center; gap: 8px; padding: 12px 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
     🎯 Poster
   </a>
   

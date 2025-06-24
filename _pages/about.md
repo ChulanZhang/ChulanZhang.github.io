@@ -14,7 +14,7 @@ My research interests include optimizing the performance and energy efficiency o
 ### ⚡ Interests
 - LLM Inference Optimization on AI Accelerators
 - Adaptive Computer Vision System
-- Performance and Energy Efficiency for MLSys on embedded GPUs
+- Performance and Energy Efficiency of MLSys on embedded GPUs
 
 ### :mortar_board: Education
 - Ph.D. Candidate [Purdue University](https://www.purdue.edu/) `West Lafayette` `2019 ~`
