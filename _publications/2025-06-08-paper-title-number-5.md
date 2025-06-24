@@ -20,18 +20,17 @@ citation: '@inproceedings{wang2025agile3d,
 }'
 ---
 
-<div style="display: flex; gap: 20px; margin: 20px 0; flex-wrap: wrap;">
-  <a href="https://github.com/ChulanZhang/ChulanZhang.github.io/blob/pengcheng/paper/agile3d_preprint.pdf" style="display: flex; align-items: center; gap: 8px; padding: 12px 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+<div style="display: flex; gap: 4px; margin: 20px 0; align-items: center; flex-wrap: wrap;">
+  <a href="https://github.com/ChulanZhang/ChulanZhang.github.io/blob/pengcheng/paper/agile3d_preprint.pdf" style="display: flex; align-items: center; gap: 6px; padding: 8px 16px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
     📄 Paper
   </a>
-  
-  <a href="https://github.com/ChulanZhang/ChulanZhang.github.io/blob/pengcheng/poster/agile3d_poster.pdf" style="display: flex; align-items: center; gap: 8px; padding: 12px 20px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+  <a href="https://github.com/ChulanZhang/ChulanZhang.github.io/blob/pengcheng/poster/agile3d_poster.pdf" style="display: flex; align-items: center; gap: 6px; padding: 8px 16px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
     🎯 Poster
   </a>
-  
-  <a href="https://github.com/ChulanZhang/Agile3D" style="display: flex; align-items: center; gap: 8px; padding: 12px 20px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
+  <a href="https://github.com/ChulanZhang/Agile3D" style="display: flex; align-items: center; gap: 6px; padding: 8px 16px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 500; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
     💻 Code
   </a>
+  <img src="/images/agile3d-qr-code.png" alt="Agile3D QR Code" style="width: 88px; height: 88px; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); margin-left: 8px;" />
 </div>
 
 ---
