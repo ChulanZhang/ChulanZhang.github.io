@@ -6,7 +6,7 @@ permalink: /publication/agile3d
 excerpt: 'A novel approach for efficient 3D object detection on embedded GPUs with adaptive contention and content awareness.'
 date: 2025-06-08
 venue: 'The 23rd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2025)'
-authors: 'Pengcheng Wang, Zhuoming Liu, Shayok Bagchi, Ran Xu, Saurabh Bagchi, Yin Li, Somali Chaterji'
+authors: '<strong>Pengcheng Wang<sup>α</sup>, Zhuoming Liu<sup>β</sup>, Shayok Bagchi<sup>γ</sup>, Ran Xu<sup>δ</sup>, Saurabh Bagchi<sup>α</sup>, Yin Li<sup>β</sup>, Somali Chaterji<sup>α</sup></strong><br><sub style="font-size:0.9em;">α Purdue University, β University of Wisconsin-Madison, γ West Lafayette Jr/Sr. High School, δ NVIDIA</sub>'
 slidesurl: 'https://your-slides-url.com'
 paperurl: 'https://your-paper-url.com'
 bibtexurl: 'https://your-bibtex-url.com'
