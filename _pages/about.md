@@ -55,6 +55,7 @@ My research interests include optimizing the performance and energy efficiency o
 
 ### :computer: Services
 - Artifact Evaluation Committee (AEC) of MobiSys 2025
+- Shadow PC of EuroSys 2024
 - Artifact Evaluation Committee (AEC) of SenSys 2024
 - Artifact Evaluation Committee (AEC) of USENIX OSDI 2022 and ATC 2022
 
